@@ -8,9 +8,9 @@ Check if HW Raid Controller is present. If present Use HW RAID instead of SW RAI
 -----------------------------------------------------------------------------------
 
 ## Prerequisite:
- Hardware
+1. Hardware
   4 Disk Drives
- Software
+2. Software
   ```
   sudo apt-get update && sudo apt-get install lsscsi mdadm xfsprogs
   ```
