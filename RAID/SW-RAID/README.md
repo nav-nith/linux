@@ -54,7 +54,7 @@ Check if HW Raid Controller is present. If present Use HW RAID instead of SW RAI
   ```
   lsblk -o NAME,UUID
   ```
-  Sample Responce will similar to shown below
+  Sample Responce will be similar to shown below
   ```
   NAME    UUID
 sda     26928fde-2ae5-0870-1376-fd04df690ffd
